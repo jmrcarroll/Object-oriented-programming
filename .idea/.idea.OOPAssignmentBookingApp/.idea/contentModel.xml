@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\John\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\John\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_OOPAssignmentBookingApp.1768343524.00" t="ExcludeRecursive" />
+    <e p="C:\Users\John\source\repos\OOPAssignmentBookingApp" t="IncludeFlat">
+      <e p="OOPAssignmentBookingApp" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CalEvent.cs" t="Include" />
+        <e p="CalExtEvent.cs" t="Include" />
+        <e p="CalIntEvent.cs" t="Include" />
+        <e p="CIContext.cs" t="Include" />
+        <e p="ClassDiagram1.cd" t="Include" />
+        <e p="iCalEventClash.cs" t="Include" />
+        <e p="ICalEventPrint.cs" t="Include" />
+        <e p="ICalEventSave.cs" t="Include" />
+        <e p="ICalEventUpdate.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="OOPAssignmentBookingApp.csproj" t="IncludeRecursive" />
+        <e p="OOPAssignmentBookingApp_TemporaryKey.pfx" t="Include" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="OOPAssignmentBookingApp.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
